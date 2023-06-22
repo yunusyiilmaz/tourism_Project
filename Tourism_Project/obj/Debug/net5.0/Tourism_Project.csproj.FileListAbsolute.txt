@@ -1,0 +1,870 @@
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.exe
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.dev.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.Manifest.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.xml
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\scopedcss\bundle\Tourism_Project.styles.css
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.input.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.output.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorCoreGenerate.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.StaticWebAssets.xml
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.exe
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.dev.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\scopedcss\bundle\Tourism_Project.styles.css
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.Manifest.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.Pack.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\msbuild.Tourism_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\msbuild.build.Tourism_Project.props
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tourism_Project.props
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tourism_Project.props
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.input.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.output.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorCoreGenerate.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\refint\Tourism_Project.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_UILayout.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_UILayout.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.exe
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\scopedcss\bundle\Tourism_Project.styles.css
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.Manifest.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.input.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.output.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorCoreGenerate.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_UILayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.xml
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Commend\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_Navbar2Partial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_RightBarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_ScriptPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Profile\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\NewReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyCurrentReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyOldReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyApprovalReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProfileInformation\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_GuideList\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PlatformSetting\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.exe
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.deps.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.Manifest.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\staticwebassets\Tourism_Project.StaticWebAssets.xml
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\scopedcss\bundle\Tourism_Project.styles.css
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.input.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.TagHelpers.output.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorCoreGenerate.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Commend\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Profile\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyApprovalReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyCurrentReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyOldReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\NewReservation.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_Navbar2Partial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_RightBarPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_ScriptPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_GuideList\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PlatformSetting\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProfileInformation\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_UILayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.RazorTargetAssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Views.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\ref\Tourism_Project.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Destination\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Destination\AddDestination.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\sneat-1.0.0\.eslintrc.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\sneat-1.0.0\.prettierrc.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\sneat-1.0.0\package-lock.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\sneat-1.0.0\package.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Destination\UpdateDestination.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardBanner\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Card1Statistic\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_TotalRevenue\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Card2Statistic\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialAppBrandDemo.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialFooter.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialHeader.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialNavBar.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialScript.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Admin\_PartialSideBar.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_DestinationStatistic\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_DestinationStatistic2\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_AdminGuideList\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_AdminDashboardHeader\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comment\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\EditUser.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\ReservationUser.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Guide\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Guide\AddGuide.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\EPPlus.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Excel\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Irony.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\XLParser.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\SkiaSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\PdfReport\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Guide\EditGuide.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\MailKit.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\MimeKit.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\SendMail\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\City\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Dto.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Dto.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\ContactUs\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reservation\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Announcement\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Announcement\AddAnnouncement.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Announcement\UpdateAnnouncement.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\VisitorApi\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\VisitorApi\AddVisitor.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\VisitorApi\UpdateVisitor.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\ApiMovie\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\ApiExchange\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\BookingOtelSearch\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\BookingOtelSearch\GetCityDestID.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\MediatR.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\DestinationCQRS\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\DestinationCQRS\GetDestination.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\DestinationCQRS\AddDestination.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\GuideMediatR\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\GuideMediatR\GetGuides.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\GuideMediatR\AddGuide.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_GuideDetails\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Guide\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\AssignRole.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UpdateRole.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UserList.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_LastDestinations\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\_MemberLayout.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutFooter\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutHeaderContent\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutHead\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutLanguages\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutNavbar\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutSearch\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberLayoutSidebar\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_MemberStatistic\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Dashboard\MemberDashboard.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Cards1Statistic\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Shared\Components\_Cards2Statistics\Default.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\LastDestinations\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Commend\AddComment.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\Information\Index.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\en\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Information.Index.en.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.csproj.GenerateResource.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\en\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\fr\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Information.Index.fr.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\fr\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\es\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Information.Index.es.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\es\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\de\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Information.Index.de.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\de\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\bin\Debug\net5.0\tr\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Information.Index.tr.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\tr\Tourism_Project.resources.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Shared._MemberLayout.en.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Shared._MemberLayout.tr.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Shared._MemberLayout.de.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Shared._MemberLayout.fr.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Tourism_Project.Resources.Views.Shared._MemberLayout.es.resources
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\GetCitiesSearchByName.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\PasswordChange\ForgetPassword.cshtml.g.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project\obj\Debug\net5.0\Razor\Views\PasswordChange\ResetPassword.cshtml.g.cs

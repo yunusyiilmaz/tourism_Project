@@ -1,0 +1,32 @@
+﻿@model List<Entity.Concrete.Reservation>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int count = 0;
+}
+  
+        <h1>Tüm Rezervasyonlar</h1>
+        <table class="table table-bordered">
+            <tr>
+                <th>#</th>
+                <th>Rezervasyon Yapan Kişi</th>
+                <th>Lokasyon</th>
+                <th>Gün Gece</th>
+                <th>Durum</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                { count += 1; }
+                <tr>
+                    <th>@count</th>
+                    <td>@item.Name @item.Surname</td>
+                    <td>@item.Destination.City</td>
+                    <td>@item.Destination.DayNight</td>
+                    <td><a href="/Admin/Reservation/Approve?id=@item.ReservationId" class="btn btn-outline-success">Onayla</a></td>
+                    <td><a href="/Admin/Reservation/Denied?id=@item.ReservationId" class="btn btn-outline-danger">Reddet</a></td>
+                </tr>
+            }
+        </table>
+    
+
+

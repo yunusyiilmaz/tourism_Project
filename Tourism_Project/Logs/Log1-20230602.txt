@@ -1,0 +1,6 @@
+2023-06-02T09:29:27.1569112+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-06-02T09:29:27.1635905+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-06-02T09:29:27.1636629+03:00  [INF] Content root path: "C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project" (b5d60022)
+2023-06-02T09:54:17.2728716+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-06-02T09:54:17.2797664+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-06-02T09:54:17.2798379+03:00  [INF] Content root path: "C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Tourism_Project" (b5d60022)

@@ -1,0 +1,82 @@
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Business.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\bin\Debug\net5.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Dto.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\Business\bin\Debug\net5.0\Dto.pdb

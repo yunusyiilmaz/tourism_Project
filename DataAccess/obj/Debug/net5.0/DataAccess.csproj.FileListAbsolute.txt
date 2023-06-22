@@ -1,0 +1,72 @@
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Tourism_Project\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Projeler\YUNUS YAZILIM DOYALARI\Tourism_Project\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Tourism_Project\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
